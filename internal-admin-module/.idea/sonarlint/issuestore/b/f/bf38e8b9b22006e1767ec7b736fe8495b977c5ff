@@ -1,0 +1,14 @@
+
+g
+java:S1192"QDefine a constant instead of duplicating this literal "application/json" 3 times.(ƒÆêµ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "accept" 3 times.(ƒÆêµ
+|
+java:S1488""aImmediately return this expression instead of assigning it to the temporary variable "debtArray".(ØñÇÓıÿÿÿÿ
+v
+java:S1488-"`Immediately return this expression instead of assigning it to the temporary variable "payments".(·¿¼Ú
+
+java:S14888"dImmediately return this expression instead of assigning it to the temporary variable "paymentPlans".(¢‘¬ûÿÿÿÿ
+m	java:S116"SRename this field "DEBT_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿù”“øÿÿÿÿ
+p	java:S116"VRename this field "PAYMENT_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·€ıüıÿÿÿÿ
+u	java:S116"[Rename this field "PAYMENT_PLAN_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬şªøÿÿÿÿ

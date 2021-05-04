@@ -1,0 +1,15 @@
+
+¢
+java:S2681#"†This line will not be executed conditionally; only the first line of this 3-line block will be. The rest will execute unconditionally.(å«“’úÿÿÿÿ
+G
+java:S1612",Replace this lambda with a method reference.(Œ“¬úÿÿÿÿ
+B
+java:S1612",Replace this lambda with a method reference.(ŒóÜ÷
+G
+java:S1612",Replace this lambda with a method reference.(œÃèÖÿÿÿÿÿ
+G
+java:S1612*",Replace this lambda with a method reference.(ÙÕœÜÿÿÿÿÿ
+J
+java:S62123"/Declare this local variable with "var" instead.(œ¡£òûÿÿÿÿ
+J
+java:S6212I"/Declare this local variable with "var" instead.(Ìù½Çüÿÿÿÿ
